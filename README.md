@@ -41,3 +41,4 @@
   - https://tsuyopon.xyz/learning-contents/web-dev/html/understand-block-and-inline/
 - HTMLのさまざまなリスト表示（箇条書き）のやり方を覚える
   - https://tsuyopon.xyz/learning-contents/web-dev/html/how-to-make-lists/
+# html_excercise_for_beginner_part_1
